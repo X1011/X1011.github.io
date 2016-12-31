@@ -1,5 +1,5 @@
-describe('parse', function() {
-	it('parses the redirect URL', function() {
+describe('parse', () => {
+	it('parses the redirect URL', () => {
 		
 	})
 })
